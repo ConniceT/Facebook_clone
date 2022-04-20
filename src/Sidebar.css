@@ -1,0 +1,7 @@
+.sidebar{
+    padding: 25px 10px;
+    position: fixed;
+    overflow-wrap: break-word;
+    flex: 0.33;
+    width: 23.5%;
+}

@@ -1,0 +1,23 @@
+.feed{
+    flex: 1;
+
+    position: relative;
+    
+   
+
+    
+
+    
+
+    
+    /* padding:  10px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center center;
+    align-items: center ;
+    
+    
+    
+    
+    
+}
